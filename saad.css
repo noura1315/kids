@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+   background-image: url("https://i.pinimg.com/originals/e0/5a/db/e05adb94d72ad2214836205728e741d4.jpg");
+	
+
+}
+
+h1{
+	color:#C300FF;
+	text-align: center;
+	font-size:100px ;
+	text-emphasis-color: lightsalmon;
+}
+h3{
+	color:#1A68BE ;
+	text-align: center;
+	font-size: 40px;
+	text-emphasis-color:deeppink;
+}
+
+
+img{
+	background-color: white;
+}
+
+
